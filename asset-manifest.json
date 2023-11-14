@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eva2023/static/css/main.f855e6bc.css",
+    "main.js": "/eva2023/static/js/main.7af11b82.js",
+    "static/js/787.a9e16cae.chunk.js": "/eva2023/static/js/787.a9e16cae.chunk.js",
+    "index.html": "/eva2023/index.html",
+    "main.f855e6bc.css.map": "/eva2023/static/css/main.f855e6bc.css.map",
+    "main.7af11b82.js.map": "/eva2023/static/js/main.7af11b82.js.map",
+    "787.a9e16cae.chunk.js.map": "/eva2023/static/js/787.a9e16cae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7af11b82.js"
+  ]
+}
