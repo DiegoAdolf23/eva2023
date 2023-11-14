@@ -1,23 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>INSTITUTO SUPERIOR TECNOLOGICO HONORIO DELGADO ESPINOZA</h1>
+      <h2>Estudiante: Coila Cutipa Diego Adolfo</h2>
+      <h3>Turno Tarde</h3>
+      <h4>2023</h4>
+      <h3>Arequipa-Peru</h3>
+
     </div>
   );
 }
